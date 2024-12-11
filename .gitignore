@@ -1,0 +1,13 @@
+idea2.ipynb
+__pycache__/
+github/
+results/*
+/model/*
+/utils/api_config.py
+/utils/load_model.py
+/utils/prompt_test.ipynb
+finetune/*
+/llm/model/
+/data/LatentHatred
+/data/OLID_a
+/data/Toxigen
